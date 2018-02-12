@@ -16,3 +16,6 @@ dates = datelist((2017, 12, 1), (2018, 1, 26))
 $ python main.py
 ```
 启动程序后，会弹出一个浏览器并显示登录界面，手动输入账号密码及验证码后点击登录，这时在程序界面输入```1```并回车，这时浏览器会自动完成评教！（注：已评教的课程会被自动跳过）
+
+## License
+This project is licensed under the MIT License
